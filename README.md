@@ -1,5 +1,5 @@
 # urban-noise-predictor
-
+[![Build Status](https://dev.azure.com/davidpereiracostoya/UrbanNoise/_apis/build/status/urbannoise.urban-noise-predictor?branchName=master)](https://dev.azure.com/davidpereiracostoya/UrbanNoise/_build/latest?definitionId=7&branchName=master)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## License
